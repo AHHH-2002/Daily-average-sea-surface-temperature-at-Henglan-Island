@@ -1,2 +1,2 @@
 # Daily-average-sea-surface-temperature-at-Henglan-Island
-This project utilizes data from Heng Lam Island and daily average sea surface temperature, and visualizes tidal data as flowing wave patterns through Pygame.
+This project utilizes data from Heng Lam Island and daily average sea surface temperature, and visualizes tidal data as flowing wave patterns through Pygame.I have combined sea surface temperature variations with wave oscillations, using wave amplitude to represent the magnitude of temperature changes, thereby achieving temperature data visualisation. The colour scheme has been altered to a continuously shifting rainbow palette, enhancing the visual richness.
