@@ -1,6 +1,6 @@
 # Henglan Island Sea Temperature Generative Art
 
-本项目使用横澜岛日平均海面温度数据，通过pygame将潮汐数据可视化为流动的波浪图案。
+This project utilizes data from Heng Lam Island and daily average sea surface temperature, and visualizes tidal data as flowing wave patterns through Pygame.I have combined sea surface temperature variations with wave oscillations, using wave amplitude to represent the magnitude of temperature changes, thereby achieving temperature data visualisation. The colour scheme has been altered to a continuously shifting rainbow palette, enhancing the visual richness.
 
 ## 使用方法
 1. 安装依赖：
